@@ -66,7 +66,7 @@
         // Toggle the display of the chat display container
         if (chatDisplayContainer.style.height === '800px') {
           chatDisplayContainer.style.height = '0px';
-          chatText.innerText = '✨'
+          chatText.innerText = '💬'
         } else {
           chatDisplayContainer.style.height = '800px';
           chatText.innerText = '↓'
